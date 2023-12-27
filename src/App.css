@@ -1,0 +1,31 @@
+.container{
+    background-color: blueviolet;
+    min-height: 100vh;
+
+}
+
+.title{
+    text-align: center;
+}
+
+.styled_input{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+}
+
+.form{
+   text-align: center;
+}
+
+.list{
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.button_style{
+    height: 35px;
+    width: 40px;
+    margin-left: 10px;
+    
+}
